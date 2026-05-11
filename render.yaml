@@ -15,3 +15,5 @@ services:
         value: "https://api.openai.com/v1"
       - key: OWNER_CHAT_ID
         sync: false
+      - key: PORT
+       value: "10000"
